@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "name": "Halo 3",
+      "imageIndex": 0,
+      "year": 2007,
+      "description": "Halo 3 is a first-person shooter video game developed by Bungie Studios and published by Microsoft. It is the third installment in the Halo franchise.",
+      "image": "h3.jpg"
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "imageIndex": 1,
+      "year": 1998,
+      "description": "The Legend of Zelda: Ocarina of Time is an action-adventure video game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in November 1998, and in Europe and Australia the following month.",
+      "image": "tloz.jpg"
+    },
+    {
+      "name": "Counter-Strike",
+      "imageIndex": 2,
+      "year": 2000,
+      "description": "Counter-Strike is a series of multiplayer first-person shooter video games. Counter-Strike was first released by Valve Corporation in 2000.",
+      "image": "cs.jpg"
+    }
+  ]
+}
